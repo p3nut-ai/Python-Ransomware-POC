@@ -25,7 +25,7 @@ The script works by:
 Ensure you have Python installed. You can run the script with the following command:
 
 ```bash
-python requirements.txt
+pip install -r requirements.txt
 ```
 
 ```bash
